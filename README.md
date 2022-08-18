@@ -11,7 +11,7 @@ Over the course of my tenure as a developer I have programmed several fractals( 
 
 
 
-
+(Programmed using Java) 
 ## Mandelbrot
 ![Screenshot 2022-08-13 at 4 12 41 PM](https://user-images.githubusercontent.com/48414198/185373141-20d423a2-9e3a-4f80-9781-81650f220a36.png)
 
